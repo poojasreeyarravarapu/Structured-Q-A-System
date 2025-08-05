@@ -75,6 +75,10 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+or
+```bash
+pip install langchain pinecone-client langchain-community streamlit python-dotenv langchain-pinecone sentence-transformers
+```
 
 4️⃣ Set up environment variables like in the .env.example file in the repository
 
