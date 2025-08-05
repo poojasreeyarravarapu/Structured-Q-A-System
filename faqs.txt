@@ -1,0 +1,8 @@
+Q: How do I reset my password?
+A: Go to the login page, click "Forgot Password", and follow the instructions.
+
+Q: How can I update my email address?
+A: Navigate to account settings and click "Update Email".
+
+Q: What should I do if my account is locked?
+A: Contact support via the Help Center to unlock your account.
